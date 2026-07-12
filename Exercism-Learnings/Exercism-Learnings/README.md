@@ -1,0 +1,22 @@
+# Exercism Java - Lernfortschritt
+
+## Tour
+
+Jede abgeschlossene Exercism-Ubung bekommt eine `.md`-Datei mit einer Tabelle der wichtigsten Erkenntnisse.
+
+## Ziel
+
+Java-Grundlagen durch regelmäßige Übungen festigen und die Kernkonzepte in einer durchsuchbaren Sammlung greifbar halten. 
+Die Vault wächst mit jedem Commit und wird mit der Zeit zum persönlichen Nachschlagewerk.
+
+## Problems
+
+| #   | Übung                 | Konzepte                            |
+| --- | --------------------- | ----------------------------------- |
+| 1   | [[hello-world]]           | Methoden, Strings, Gradle           |
+| 2   | [[lasagna]]               | Methoden mit Parametern, Arithmetik |
+| 3   | [[annalyns-infiltration]] | Booleans, `&&`, `\|\|`, `!`, static |
+| 4   | [[log-levels]]            | Strings, `split()`, `trim()`, Regex |
+| 5   | [[bird-watcher]]          | Arrays, for-Schleifen, `length`     |
+| 6   | [[cars-assemble]]         | int/double, Casts, if-else-if       |
+| 7   | [[karls-languages]]       | Generics, List, ArrayList           |
