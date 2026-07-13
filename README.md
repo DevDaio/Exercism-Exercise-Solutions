@@ -20,3 +20,4 @@ Die Vault wächst mit jedem Commit und wird mit der Zeit zum persönlichen Nachs
 | 5   | [[bird-watcher]]          | Arrays, for-Schleifen, `length`     |
 | 6   | [[cars-assemble]]         | int/double, Casts, if-else-if       |
 | 7   | [[karls-languages]]       | Generics, List, ArrayList           |
+| 8   | [[squeaky-clean]]         | char-Literale, Character-Methoden, StringBuilder, switch on char, boolean Flag |
