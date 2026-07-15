@@ -21,3 +21,6 @@ Die Vault wächst mit jedem Commit und wird mit der Zeit zum persönlichen Nachs
 | 6   | [[cars-assemble]]         | int/double, Casts, if-else-if       |
 | 7   | [[karls-languages]]       | Generics, List, ArrayList           |
 | 8   | [[squeaky-clean]]         | char-Literale, Character-Methoden, StringBuilder, switch on char, boolean Flag |
+| 9   | [[jedliks-toy-car]]       | Klassen, Instanzen, static/void, Instanzvariablen, Guard Clause, String-Konkatenation |
+| 10  | [[need-for-speed]]        | Zwei Klassen, static Factory, Integer-Division, Guard Clause, Instanzvariablen |
+| 11  | [[remote-control-competition]] | `Comparable<T>`, `compareTo()`, `Collections.sort()`, `Integer.compare()`, Utility-Klasse mit static Methods |
