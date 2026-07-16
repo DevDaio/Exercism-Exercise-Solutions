@@ -25,3 +25,4 @@ Die Vault wächst mit jedem Commit und wird mit der Zeit zum persönlichen Nachs
 | 10  | [[need-for-speed]]        | Zwei Klassen, static Factory, Integer-Division, Guard Clause, Instanzvariablen |
 | 11  | [[remote-control-competition]] | `Comparable<T>`, `compareTo()`, `Collections.sort()`, `Integer.compare()`, Utility-Klasse mit static Methods |
 | 12  | [[salary-calculator]] | Ternary Operator, Methoden delegieren, Wert kappen mit `? :` |
+| 13  | [[football-match-reports]] | Switch Statement, Multi-Label case (Java 14+), default-Zweig, fallthrough |
